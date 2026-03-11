@@ -12,7 +12,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.dispatcher import FSMContext
 
-API_TOKEN = os.getenv("OBMEN_BOT_TOKEN", "8298808352:AAHkD1lraFUAy8xyToDBYX0CMo4twRQ2yYE")
+API_TOKEN = os.getenv("OBMEN_BOT_TOKEN", "8458444274:AAFNBpfAPwMsrmxIIurI_W1HKVVe8dbuPic")
 ADMIN_ID = int(os.getenv("OBMEN_ADMIN_ID", "8537782289"))
 CHANNEL_USERNAME = "@tlovchek"
 DATA_DIR = "bot_data"
