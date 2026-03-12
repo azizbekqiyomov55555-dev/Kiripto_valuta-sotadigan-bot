@@ -4,8 +4,8 @@ import requests
 import sqlite3
 
 # --- SOZLAMALAR ---
-TOKEN = 'SIZNING_BOT_TOKENINGIZNI_SHU_YERGA_YOZING'
-ADMIN_ID = 123456789  # O'zingizning Telegram ID raqamingiz
+TOKEN = '8527362840:AAEHwbiUGYLPbnWBY-b8nfmhLYeajxPL744'
+ADMIN_ID = 8537782289  # O'zingizning Telegram ID raqamingiz
 SMM_API_KEY = "SIZNING_SMM_API_KALITINGIZ"
 SMM_API_URL = "https://u6182.xvest4.ru/api/"
 
