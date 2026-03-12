@@ -8,9 +8,9 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # ============ SOZLAMALAR ============
-BOT_TOKEN = "YOUR_BOT_TOKEN"          # @BotFather dan oling
+BOT_TOKEN = "8458444274:AAFNBpfAPwMsrmxIIurI_W1HKVVe8dbuPic"          # @BotFather dan oling
 PROVIDER_TOKEN = "YOUR_PAYMENT_TOKEN" # @BotFather > Payments dan oling (Payme, Click, Uzum)
-ADMIN_ID = 123456789                  # Sizning Telegram ID
+ADMIN_ID = 8537782289                  # Sizning Telegram ID
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
