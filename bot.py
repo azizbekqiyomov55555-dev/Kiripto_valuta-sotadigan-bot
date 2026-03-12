@@ -3,9 +3,9 @@
 ob_start();
 date_default_timezone_set("Asia/Tashkent");
 
-define("scsmm","API_TOKEN");//bot tokeni kiritiladi//
+define("scsmm","8527362840:AAEHwbiUGYLPbnWBY-b8nfmhLYeajxPL744");//bot tokeni kiritiladi//
 $botname = scsmm('getme',['bot'])->result->username;
-$admin = "ADMIN_ID";  //admin ID raqami kiritiladi//
+$admin = "8537782289";  //admin ID raqami kiritiladi//
 $arays = array($arays,$admin);
 //Kod Amirov Bekjan tomonidan tarqatildi, kodni maker botlar uchun ishlatsaxam boladi. Telegram: @AmirovBekjanInfo
 function addstat($id){
