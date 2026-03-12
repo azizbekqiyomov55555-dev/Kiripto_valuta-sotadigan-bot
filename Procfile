@@ -1,1 +1,1 @@
-worker: python safo_bot.py
+worker: python safo_pay_bot.py
