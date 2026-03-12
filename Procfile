@@ -1,1 +1,1 @@
-worker: python obmen_bot.py
+worker: python safo_bot.py
