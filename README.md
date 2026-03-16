@@ -1,1 +1,0 @@
-# Kiripto_valuta-sotadigan-bot
